@@ -1,0 +1,20 @@
+{
+  " gateway_conf " : {
+    " gateway_ID " : " B827EBFFFE7367F6" ,
+    " servidores " : [
+      {
+        " dirección_servidor " : " router.eu.thethings.network " ,
+        " serv_port_up " : 1700 ,
+        " serv_port_down " : 1700 ,
+        " serv_enabled " : verdadero
+      }
+    ],
+
+    " fake_gps " : verdadero ,
+    " ref_latitude " : -31.8232374325 ,
+    " ref_longitude " : -64.52285324 ,
+    " ref_altitude " : 68 ,
+    " contact_email " : "melo_aq@live.com" ,
+    " description " : " TTN proporcionado por Universidad Nacional de Entre Rios  "
+  }
+}
